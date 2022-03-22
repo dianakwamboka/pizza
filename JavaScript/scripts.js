@@ -44,9 +44,9 @@ $('.order').click(function() {
   $(".checkout-btn").click(function() {
       amountt = amountt + total;
       $(".amountt h3 span").html(amountt)
-     var answer= prompt("get order delivered and have it hot at ksh @50 enter yes or no")
+     var answer= prompt("get your delivery at ksh-50 enter yes or no")
       if (answer =="yes") {var location=prompt("enter your location")
-      alert("your order will get to you in a few minutes at " + location + "your total amount is " +(amountt + 50))}
+      alert("Thank you for placing your order,enjoy your meal!" + location + "your total amount is " +(amountt + 50))}
  });
   
 });
