@@ -8,3 +8,4 @@ This is a pizza webpage where the prospective client is able to order pizza onli
 # Technologies used:
 - HTML 
 - CSS
+- JavaScript
