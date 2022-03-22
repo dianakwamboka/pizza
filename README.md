@@ -6,3 +6,4 @@ This is a pizza webpage where the prospective client is able to order pizza onli
 - diana.kwamboka@student.moringaschool.com
 - 0706941602
 # Technologies used:
+- HTML 
