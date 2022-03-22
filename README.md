@@ -9,3 +9,4 @@ This is a pizza webpage where the prospective client is able to order pizza onli
 - HTML -For Web pages development.
 - CSS -to style and layout web pages
 - JavaScript -allows users to interact with web pages.
+MIT License
