@@ -7,3 +7,4 @@ This is a pizza webpage where the prospective client is able to order pizza onli
 - 0706941602
 # Technologies used:
 - HTML 
+- CSS
