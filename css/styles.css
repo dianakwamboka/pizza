@@ -1,11 +1,11 @@
 .container{
-    background-image: url("https://raw.githubusercontent.com/dianakwamboka/pizza/master/images/p.jpg");
+    background-image: url("/images/p.jpg");
     height: 65vh;
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
     color: rgb(31, 34, 238);
-    font-size: 80px;
+    font-size: 40px;
 };
 .varieties{
     margin: auto;
